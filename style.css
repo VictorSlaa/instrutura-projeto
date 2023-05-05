@@ -120,7 +120,7 @@
 	}
 	
 	.banner {
-	background-image:url(/fundobanner.png);
+	background-image:url(fundobanner.png);
 	filter:brightness(90%);
 	display:flex;
 	min-height:100%;
